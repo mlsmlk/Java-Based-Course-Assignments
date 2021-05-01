@@ -1,4 +1,4 @@
-# Java-Based-Course-Assignments
+# Introduction to Java Practices
 
 __*dec2base*__: Converting a decimal input into any-base <br> <br>
 __*fileSort*__: File reading program to sort a list of names in ascending and descending order <br> <br>
